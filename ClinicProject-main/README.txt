@@ -1,5 +1,3 @@
-bonus na tong rough README HAHAHA
-
 ------------------
 inheritance: Note.java -> (Record.java, Vaccine.java, Prescription.java)
 polymorphism: Pair.java constructors and the print functions in Display.java (method overloading)
