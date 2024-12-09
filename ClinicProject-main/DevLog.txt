@@ -1,0 +1,15 @@
+ClinicOOP
+- added residents collection and basic adding to collection and viewing collection
+- pls fix the suffix showing even if NA is written
+
+----------
+- removed suffix
+- fully implemented scheduling for the next 5 days starting from program run date
+- added schedules collection
+- added a preload function that creates recorded residents, called Preload() and is declared in App.java
+- show detailed schedule for the day is the only thing missing
+- records should say smth if records are empty
+
+----------
+- finished all tasks above
+- code refactoring
